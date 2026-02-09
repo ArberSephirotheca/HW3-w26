@@ -30,8 +30,7 @@
 
 The material for homework 2 will be critical for this assignment. You will 
 use your grammar as well as your first+ sets. If you do not want to use your 
-own output from homework 2, you can use the reference file: grammar-ref.txt,
-which will be available to you after homework 2 ends in a coupled days.
+own output from homework 2, you can use the reference file, which will be available to you after homework 2 ends in a coupled days.
 
 # 1 A recursive descent parser for C-simple
 
